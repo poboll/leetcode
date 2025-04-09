@@ -11,3 +11,6 @@
 #### 4月1日
 [1. 基础输入输出 - Chat] [BasicIO.java](./BasicIO.java)
 [2. 基础加减乘除计算器 - Chat] [BasicCalculator.java](./BasicCalculator.java)
+
+### 4月9日 
+[1. 奇怪的捐赠 - 蓝桥云课](./StrangeDonations.java)
