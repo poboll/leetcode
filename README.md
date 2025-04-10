@@ -14,3 +14,6 @@
 
 ### 4月9日 
 [1. 奇怪的捐赠 - 蓝桥云课](./StrangeDonations.java)
+
+### 4月10日 
+[2. 确定字符串是否是另一个的排列 - 蓝桥云课](./StringArrange.java)
